@@ -1,4 +1,4 @@
-# HICO Senior dev Task - Peanut butter Payrol UI
+# Peanut butter Payrol UI
 
 The application connects to a back end using port 3001. This port can be adjusted in apiService.ts
 
